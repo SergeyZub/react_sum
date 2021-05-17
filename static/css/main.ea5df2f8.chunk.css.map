@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,UACE,qBAAsB,CACtB,cAAe,CACf,iBAAkB,CAClB,YAAa,CACb,wBAAmC,CACnC,cAAe","file":"main.ea5df2f8.chunk.css","sourcesContent":[".Sum-card {\n  border: 3px solid blue;\n  margin-top: 5px;\n  text-align: center;\n  padding: 30px;\n  background-color: rgb(58, 228, 219);\n  font-size: 28px;\n}\n"]}
